@@ -1,5 +1,5 @@
 ## Trang dành cho admin
-TK: admin, MK: 12345 . Chi tiết trong table thanhvien sql
+TK: admin, MK: 12345
 
 ## Các nút chức năng đồ án
 Đồ án gồm có:
