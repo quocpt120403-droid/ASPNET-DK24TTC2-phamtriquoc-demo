@@ -1,7 +1,7 @@
 # ASPNET-DK24TTC2-phamtriquoc-demo
 Đồ án ASP.NET web bán giày
-## Khởi chạy chương trình
-Chạy đồ án là file nén rar download_1.zip trong thư mục src/
+## Khởi chạy website bán giày
+Tải file nén rar download_1.zip trong thư mục src/
 ## Thông tin người thực hiện
 Họ tên: Phạm Trí Quốc
 MSSV: 170124248
