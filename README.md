@@ -1,7 +1,8 @@
 # ASPNET-DK24TTC2-phamtriquoc-demo
 Đồ án ASP.NET web tuyển dụng việc làm
-## Khởi chạy website bán giày
+## Khởi chạy website tuyển dụng việc làm
 Tải file nén .rar trong thư mục src/
+Tải và import file sql
 ## Thông tin người thực hiện
 Họ tên: Phạm Trí Quốc
 MSSV: 170124248
