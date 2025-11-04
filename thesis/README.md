@@ -37,5 +37,4 @@ Xem và chỉnh sửa phiếu đăng tuyển dụng
  </connectionStrings> trong đó data source=智国 sẽ thay thành sever name của database sql trên máy bạn.
 
 -B3 Buid and Run
-Thông tin đăng nhập Admin1@gmail.com pass 123456Aa@ và ungvien2@gmail.com pass 123456Aa@
-các tài khoản ứng viên và nhà tuyển dụng có thể đăng ký mới rồi đăng nhập
+Các tài khoản ứng viên và nhà tuyển dụng có thể đăng ký mới rồi đăng nhập
