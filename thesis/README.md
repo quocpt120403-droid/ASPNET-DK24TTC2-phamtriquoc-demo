@@ -30,7 +30,7 @@ Xem và chỉnh sửa phiếu đăng tuyển dụng
 ## Import file SQL
 -B1 import file vào sql sever phiên bản 2019 trở lên
 
--B2 Thay đổi đường dẫn local vào file appsetting.json
+-B2 Thay đổi đường dẫn local vào file web.config
 Đoạn code  
   <connectionStrings>
    <add name="TuyenDungDbContext" connectionString="data source=智国;initial catalog=Career;Trusted_Connection=True;" providerName="System.Data.SqlClient" />
