@@ -27,3 +27,15 @@ Xem CV ứng viên
 Quản lý tài khoản user
 Xem danh sách và duyệt yêu cầu của các nhà tuyển dụng đăng ký
 Xem và chỉnh sửa phiếu đăng tuyển dụng
+## Import file SQL
+-B1 import file vào sql sever phiên bản 2019 trở lên
+
+-B2 Thay đổi đường dẫn local vào file appsetting.json
+Đoạn code  
+  <connectionStrings>
+   <add name="TuyenDungDbContext" connectionString="data source=智国;initial catalog=Career;Trusted_Connection=True;" providerName="System.Data.SqlClient" />
+ </connectionStrings> trong đó data source=智国 sẽ thay thành sever name của database sql trên máy bạn.
+
+-B3 Buid and Run
+Thông tin đăng nhập Admin1@gmail.com pass 123456Aa@ và ungvien2@gmail.com pass 123456Aa@
+các tài khoản ứng viên và nhà tuyển dụng có thể đăng ký mới rồi đăng nhập
