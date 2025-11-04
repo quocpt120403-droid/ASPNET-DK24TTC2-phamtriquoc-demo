@@ -9,3 +9,4 @@
 27/10/2025: Chỉnh sửa file word báo cáo web tuyển dụng trong thư mục thesis
 27/10/2025: Tạo và chỉnh sửa lại file sql
 27/10/2025: Chỉnh sửa code trên visual sutdio 2022
+4/11/2025: up source code lên thư mục src/ cùng file sql, và tài liệu báo cáo file docx
