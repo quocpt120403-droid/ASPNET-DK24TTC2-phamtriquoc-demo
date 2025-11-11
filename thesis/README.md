@@ -9,18 +9,12 @@ Admin
 Tìm kiếm việc làm
 Xem danh sách việc làm
 Ứng tuyển việc làm
-Xem trạng thái ứng tuyển
 Upload CV cá nhân
 Chỉnh sửa thông tin cá nhân
-Nhận mail báo kết quả và mail gọi đi phỏng vấn
 ---Đối với nhà tuyển dụng
 Đăng ký/ Đăng nhập
-Đăng ký tên công ty (nộp hồ sơ giấy phép kinh doanh, mã số thuế, ảnh công ty,…)
-Chỉnh sửa công ty
 Đăng tin tuyển dụng
 Xem các ứng viên ứng tuyển vào công việc
-Gửi mail báo kết quả trúng tuyển
-Gửi mail gọi phỏng vấn (có thể tạo phỏng vấn online/offline)
 Xem CV ứng viên
 ---Đối với Admin
 Đăng nhập
